@@ -2,6 +2,10 @@
 
 ## Chapter 3
 
+**Page 23**
+
+It says "we would increase the corresponding ewight by 2.5" but we actually increase it by 1.5.
+
 **Page 63**
 
 A small stylistic issue: The summation symbol at the bottom currently shows $\sum_{i=1}$ but should be either $\sum_{i}$ or $\sum_{i=1}^{n}$.
